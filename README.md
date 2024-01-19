@@ -1,11 +1,16 @@
 # HackerRank - My solutions
 My solutions to some of the HackerRank practice problems and challenges.
 
-### Python
-1.Itertools
-+ **itertools.product()**: [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py)
-+ **itertools.permutations()**: [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
-+ **itertools.combinations()**: [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
+## Python
+- ### Sets
+  + **Introduction to Sets**: [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [My solution]
+  + **No Idea!**: [Problem](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [My solution]
+  + **Set .union() Operation**: [Problem](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) | [My solution]
+    
+- ### Itertools
+  + **itertools.product()**: [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py)
+  + **itertools.permutations()**: [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
+  + **itertools.combinations()**: [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
 
 
 ### Problem Solving (Basic) Challenges
