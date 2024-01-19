@@ -5,6 +5,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 1.Itertools
 + **itertools.product()**: [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py)
 + **itertools.permutations()**: [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
++ **itertools.combinations()**: [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
 
 
 ### Problem Solving (Basic) Challenges
