@@ -18,4 +18,3 @@ My solutions to some of the HackerRank practice problems and challenges.
 + **Time Conversion**: [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) | [My solution](../main/problem_solving/TimeConversion.py)
 + **Zig-Zag Sequence**: [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) | [My Solution](../main/problem_solving/ZigZagSequence.py)
 + **CaesarCipher**: [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) | [My solution](../main/problem_solving/CaesarCipher.py)
-S
