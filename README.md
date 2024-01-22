@@ -3,6 +3,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 ### Topics
 + [Algorithms](#algorithms)
++ [C++](#-c)
 + [Python](#-python)
 
 
@@ -17,6 +18,21 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 
 ---
+
+## <img src= "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width = 30px> C++
+
+### Introduction
+| | | |
+| --- | --- | --- |
+| Say "Hello, World!" With C++ | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [My solution](../main/c%2B%2B/cpp-hello-world.cpp) |
+| Input and Output | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [My solution](../main/c%2B%2B/cpp-input-and-output.cpp) |
+| Basic Data Types | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [My solution](../main/c%2B%2B/c-tutorial-basic-data-types.cpp) |
+
+[^ Back to table of contents](#topics)
+
+
+---
+
 ## <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width = 30px> Python
 
 ### Sets
