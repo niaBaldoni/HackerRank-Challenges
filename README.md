@@ -2,19 +2,9 @@
 My solutions to some of the HackerRank practice problems and challenges.
 
 ### Topics
-+ [Algorithms](#algorithms)
 + [C++](#-c)
++ [Java](#-java)
 + [Python](#-python)
-
-
----
-## Algorithms
-|  |  |  |
-| --- | --- | --- | 
-| Plus Minus | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) | [My solution](../main/algorithms/PlusMinus.py)
-| Time Conversion | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) | [My solution](../main/algorithms/TimeConversion.py)
-
-[^ Back to table of contents](#topics)
 
 
 ---
@@ -38,7 +28,18 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 
 ---
+## <img src= "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width = 30px> Java
 
+### Introduction
+| | | |
+| --- | --- | --- |
+| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/welcome-to-java.java) |
+
+
+[^ Back to table of contents](#topics)
+
+
+---
 ## <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width = 30px> Python
 
 ### Sets
@@ -65,3 +66,5 @@ My solutions to some of the HackerRank practice problems and challenges.
 | --- | --- | --- | 
 | Zig-Zag Sequence | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) | [My Solution](../main/ZigZagSequence.py)
 | CaesarCipher | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) | [My solution](../main/CaesarCipher.py)
+| Plus Minus | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) | [My solution](../main/algorithms/PlusMinus.py)
+| Time Conversion | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) | [My solution](../main/algorithms/TimeConversion.py)
