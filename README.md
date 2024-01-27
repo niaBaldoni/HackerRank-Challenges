@@ -1,15 +1,16 @@
 # HackerRank - My solutions
 My solutions to some of the HackerRank practice problems and challenges.
 
-### Topics
+## Topics
 + [C++](#-c)
 + [Java](#-java)
 + [Python](#-python)
++ [MySQL](#-mysql)
 
 
 ---
 
-## <img src= "https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width = 30px> C++
+## <img src= "https://skillicons.dev/icons?i=cpp" width = 30px> C++
 
 ### Introduction
 | | | |
@@ -28,7 +29,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 
 ---
-## <img src= "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width = 30px> Java
+## <img src= "https://skillicons.dev/icons?i=java" width = 30px> Java
 
 ### Introduction
 | | | |
@@ -40,7 +41,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 
 ---
-## <img src= "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width = 30px> Python
+## <img src= "https://skillicons.dev/icons?i=py" width = 30px> Python
 
 ### Sets
 |  |  |  |
@@ -56,6 +57,12 @@ My solutions to some of the HackerRank practice problems and challenges.
 | itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
 | itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
 
+
+[^ Back to table of contents](#topics)
+
+
+---
+## <img src= "https://skillicons.dev/icons?i=mysql" width = 30px> MySQL
 
 [^ Back to table of contents](#topics)
 
