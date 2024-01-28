@@ -46,9 +46,20 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Sets
 |  |  |  |
 | --- | --- | --- | 
-| Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [My solution](../main/python/itertools-!product.py)
-| No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | [My solution](../main/python/itertools-!product.py)
-| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) | [My solution](../main/python/itertools-!product.py)
+| Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [My solution](../main/python/py-introduction-to-sets.py)
+| No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [My solution](../main/python/no-idea.py)
+| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) | [My solution](../main/python/py-set-union.py)
+| Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [My solution](../main/python/symmetric-difference.py) 
+| Set .add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [My solution](../main/python/py-set-add.py)
+| Set .discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | [My solution](../main/python/py-set-discard-remove-pop.py)
+| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union) | [My solution](../main/python/py-set-union.py)
+| Set .intersection() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation) | [My solution](../main/python/py-set-intersection-operation.py)
+| Set .difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation) | [My solution](../main/python/py-set-difference-operation.py)
+| Set .symmetric_difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [My solution](../main/python/py-set-symmetric-difference-operation.py)
+| Set Mutations | [Problem](https://www.hackerrank.com/challenges/py-set-mutations) | [My solution](../main/python/py-set-mutations.py)
+| The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room) | [My solution](../main/python/py-the-captains-room.py)
+| Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset) | [My solution](../main/python/py-check-subset.py)
+| Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset) | [My solution](../main/python/py-check-strict-superset.py)
 
 ### Itertools
 |  |  |  |
@@ -56,7 +67,6 @@ My solutions to some of the HackerRank practice problems and challenges.
 | itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py) |
 | itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
 | itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
-
 
 [^ Back to table of contents](#topics)
 
