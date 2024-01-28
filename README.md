@@ -67,6 +67,10 @@ My solutions to some of the HackerRank practice problems and challenges.
 | itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py) |
 | itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
 | itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
+| itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | [My solution](../main/python/itertools-combinations-with-replacement.py)
+| Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string) | [My solution](../main/python/compress-the-string.py)
+| Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](../main/python/iterables-and-iterators.py)
+| Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](../main/python/maximize-it.py)
 
 [^ Back to table of contents](#topics)
 
