@@ -72,6 +72,14 @@ My solutions to some of the HackerRank practice problems and challenges.
 | Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](../main/python/iterables-and-iterators.py)
 | Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](../main/python/maximize-it.py)
 
+### Collections
+|  |  |  |
+| --- | --- | --- | 
+| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/collections-counter.py)
+| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/defaultdict-tutorial.py)
+| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/py-collections-namedtuple.py)
+| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/py-collections-ordereddict.py)
+
 [^ Back to table of contents](#topics)
 
 
