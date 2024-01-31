@@ -4,8 +4,8 @@ My solutions to some of the HackerRank practice problems and challenges.
 ## Topics
 + [C++](#-c)
 + [Java](#-java)
++ [MySQL](#-sql-mysql-solutions)
 + [Python](#-python)
-+ [MySQL](#-mysql)
 
 
 ---
@@ -24,6 +24,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 | Pointer | [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [My solution](../main/c%2B%2B/c-tutorial-pointer.cpp) |
 | Arrays Introduction | [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [My solution](../main/c%2B%2B/arrays-introduction.cpp) |
 | Variable Sized Arrays | [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [My solution](../main/c%2B%2B/variable-sized-arrays.cpp) |
+
 
 [^ Back to table of contents](#topics)
 
@@ -75,16 +76,34 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Collections
 |  |  |  |
 | --- | --- | --- | 
-| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/collections-counter.py)
-| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/defaultdict-tutorial.py)
-| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/py-collections-namedtuple.py)
-| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/python/py-collections-ordereddict.py)
+| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](../main/python/collections-counter.py)
+| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](../main/python/defaultdict-tutorial.py)
+| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](../main/python/py-collections-namedtuple.py)
+| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](../main/python/py-collections-ordereddict.py)
 
 [^ Back to table of contents](#topics)
 
 
 ---
-## <img src= "https://skillicons.dev/icons?i=mysql" width = 30px> MySQL
+## <img src= "https://skillicons.dev/icons?i=mysql" width = 30px> SQL (MySQL solutions)
+### Introduction
+| | | |
+| --- | --- | --- |
+| Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [My solution](../main/sql/revising-the-select-query.sql)
+| Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [My solution](../main/sql/revising-the-select-query-2.sql)
+| Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [My solution](../main/sql/select-all-sql.sql)
+| Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [My solution](../main/sql/select-by-id.sql)
+| Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [My solution](../main/sql/japanese-cities-attributes.sql)
+| Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [My solution](../main/sql/japanese-cities-name.sql)
+| Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-1.sql)
+| Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-3.sql)
+| Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-4.sql)
+| Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-5.sql)
+| Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-6.sql)
+| Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-7.sql)
+| Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-8.sql)
+| Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) | [My solution](../main/sql/weather-observation-station-9.sql)
+
 
 [^ Back to table of contents](#topics)
 
@@ -93,6 +112,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 ## Problem Solving
 |  |  |  |
 | --- | --- | --- | 
+|  | [Problem]() | [My solution]()
 | Zig-Zag Sequence | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) | [My Solution](../main/ZigZagSequence.py)
 | CaesarCipher | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) | [My solution](../main/CaesarCipher.py)
 | Plus Minus | [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) | [My solution](../main/algorithms/PlusMinus.py)
