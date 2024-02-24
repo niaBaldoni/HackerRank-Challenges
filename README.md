@@ -15,15 +15,15 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Introduction
 | | | |
 | --- | --- | --- |
-| Say "Hello, World!" With C++ | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [My solution](../main/c%2B%2B/cpp-hello-world.cpp) |
-| Input and Output | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [My solution](../main/c%2B%2B/cpp-input-and-output.cpp) |
-| Basic Data Types | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [My solution](../main/c%2B%2B/c-tutorial-basic-data-types.cpp) |
-| Conditional Statement | [Problem](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [My solution](../main/c%2B%2B/c-tutorial-conditional-if-else.cpp) |
-| For Loop | [Problem](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [My solution](../main/c%2B%2B/c-tutorial-for-loop.cpp) |
-| Functions | [Problem](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [My solution](../main/c%2B%2B/c-tutorial-functions.cpp) |
-| Pointer | [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [My solution](../main/c%2B%2B/c-tutorial-pointer.cpp) |
-| Arrays Introduction | [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [My solution](../main/c%2B%2B/arrays-introduction.cpp) |
-| Variable Sized Arrays | [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [My solution](../main/c%2B%2B/variable-sized-arrays.cpp) |
+| Say "Hello, World!" With C++ | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [My solution](../main/cplusplus/cpp-hello-world.cpp) |
+| Input and Output | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [My solution](../main/cplusplus/cpp-input-and-output.cpp) |
+| Basic Data Types | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [My solution](../main/cplusplus/c-tutorial-basic-data-types.cpp) |
+| Conditional Statement | [Problem](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [My solution](../main/cplusplus/c-tutorial-conditional-if-else.cpp) |
+| For Loop | [Problem](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [My solution](../main/cplusplus/c-tutorial-for-loop.cpp) |
+| Functions | [Problem](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [My solution](../main/cplusplus/c-tutorial-functions.cpp) |
+| Pointer | [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [My solution](../main/cplusplus/c-tutorial-pointer.cpp) |
+| Arrays Introduction | [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [My solution](../main/cplusplus/arrays-introduction.cpp) |
+| Variable Sized Arrays | [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [My solution](../main/cplusplus/variable-sized-arrays.cpp) |
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
