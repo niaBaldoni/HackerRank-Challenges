@@ -1,14 +1,16 @@
 # HackerRank - My solutions
 My solutions to some of the HackerRank practice problems and challenges.
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
+
 ## Topics
 + [C++](#-c)
 + [Java](#-java)
 + [MySQL](#-sql-mysql-solutions)
 + [Python](#-python)
 
-
----
 
 ## <img src= "https://skillicons.dev/icons?i=cpp" width = 30px> C++
 
