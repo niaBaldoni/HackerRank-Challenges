@@ -9,8 +9,8 @@ My solutions to some of the HackerRank practice problems and challenges.
 ## Topics
 + [C++](#-c)
 + [Java](#-java)
-+ [MySQL](#-sql-mysql-solutions)
 + [Python](#-python)
++ [SQL](#-sql-mysql-solutions)
 
 ## <img src= "https://skillicons.dev/icons?i=cpp" width = 30px> C++
 
