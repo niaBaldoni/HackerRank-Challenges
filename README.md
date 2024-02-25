@@ -36,7 +36,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Introduction
 | | | |
 | --- | --- | --- |
-| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/welcome-to-java.java) |
+| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/introduction/welcome-to-java.java) |
 
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
