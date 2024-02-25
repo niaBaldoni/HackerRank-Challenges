@@ -126,7 +126,8 @@ Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/pr
 ### Advanced Select
 | | | |
 | --- | --- | --- |
-| Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/advanced_select/what-type-of-triangle.sql)
+| Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/advanced_select/what-type-of-triangle.sql) 
+| The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/advanced_select/the-pads.sql) 
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
