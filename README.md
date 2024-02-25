@@ -1,8 +1,9 @@
 # HackerRank - My solutions
 My solutions to some of the HackerRank practice problems and challenges.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
+[![GitHub last commit](https://img.shields.io/github/last-commit/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
+[![GitHub commit activity the past week](https://img.shields.io/github/commit-activity/w/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
+[![GitHub commit activity the past week](https://img.shields.io/github/commit-activity/y/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/niaBaldoni/HackerRank-Challenges.svg)](https://github.com/niaBaldoni/HackerRank-Challenges)
 
 ## Topics
@@ -10,7 +11,6 @@ My solutions to some of the HackerRank practice problems and challenges.
 + [Java](#-java)
 + [MySQL](#-sql-mysql-solutions)
 + [Python](#-python)
-
 
 ## <img src= "https://skillicons.dev/icons?i=cpp" width = 30px> C++
 
@@ -44,6 +44,18 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 ---
 ## <img src= "https://skillicons.dev/icons?i=py" width = 30px> Python
+
+### Introduction
+
+|  |  |  |
+| --- | --- | --- | 
+Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [My solution](../main/python/introduction/py-hello-world.py)
+Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [My solution](../main/python/introduction/py-if-else.py)
+Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [My solution](../main/python/introduction/python-arithmetic-operators.py)
+Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [My solution](../main/python/introduction/python-division.py)
+Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [My solution](../main/python/introduction/python-loops.py)
+Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [My solution](../main/python/introduction/write-a-function.py)
+Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [My solution](../main/python/introduction/python-print.py)
 
 ### Sets
 |  |  |  |
