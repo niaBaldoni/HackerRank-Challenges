@@ -123,6 +123,10 @@ Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/pr
 | Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/name-of-employees.sql)
 | Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/salary-of-employees.sql)
 
+### Advanced Select
+| | | |
+| --- | --- | --- |
+| Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/advanced_select/what-type-of-triangle.sql)
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
