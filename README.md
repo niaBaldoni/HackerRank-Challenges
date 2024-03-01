@@ -38,7 +38,7 @@ _All the Java solutions are written in Java 8_
 | --- | --- | --- |
 | Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](./java/01_introduction/welcome-to-java.java) |
 | Java Stdin and Stdout I | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [My solution](./java/01_introduction/java-stdin-and-stdout-1.java) |
-
+| Java If-Else | [Problem](https://www.hackerrank.com/challenges/java-if-else/problem) | [My Solution](./java/01_introduction/java-if-else.java) |
 
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
@@ -103,26 +103,26 @@ Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/pr
 ### Basic Select
 | | | |
 | --- | --- | --- |
-| Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/revising-the-select-query.sql)
-| Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/revising-the-select-query-2.sql)
-| Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/select-all-sql.sql)
-| Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/select-by-id.sql)
-| Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/japanese-cities-attributes.sql)
-| Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/japanese-cities-name.sql)
-| Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-1.sql)
-| Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-3.sql)
-| Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-4.sql)
-| Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-5.sql)
-| Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-6.sql)
-| Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-7.sql)
-| Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-8.sql)
-| Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) | [My solution](../main/sql/basic_select/weather-observation-station-9.sql)
-| Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-10.sql)
-| Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-11.sql)
-| Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-12.sql)
-| Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/more-than-75-marks.sql)
-| Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/name-of-employees.sql)
-| Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/salary-of-employees.sql)
+| Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [My solution](../main/sql/basic_select/revising-the-select-query.sql)
+| Revising the Select Query II | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [My solution](../main/sql/basic_select/revising-the-select-query-2.sql)
+| Select All | [Problem](https://www.hackerrank.com/challenges/select-all-sql/problem) | [My solution](../main/sql/basic_select/select-all-sql.sql)
+| Select By ID | [Problem](https://www.hackerrank.com/challenges/select-by-id/problem) | [My solution](../main/sql/basic_select/select-by-id.sql)
+| Japanese Cities' Attributes | [Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [My solution](../main/sql/basic_select/japanese-cities-attributes.sql)
+| Japanese Cities' Names | [Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [My solution](../main/sql/basic_select/japanese-cities-name.sql)
+| Weather Observation Station 1 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [My solution](../main/sql/basic_select/weather-observation-station-1.sql)
+| Weather Observation Station 3 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [My solution](../main/sql/basic_select/weather-observation-station-3.sql)
+| Weather Observation Station 4 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [My solution](../main/sql/basic_select/weather-observation-station-4.sql)
+| Weather Observation Station 5 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [My solution](../main/sql/basic_select/weather-observation-station-5.sql)
+| Weather Observation Station 6 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [My solution](../main/sql/basic_select/weather-observation-station-6.sql)
+| Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [My solution](../main/sql/basic_select/weather-observation-station-7.sql)
+| Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [My solution](../main/sql/basic_select/weather-observation-station-8.sql)
+| Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [My solution](../main/sql/basic_select/weather-observation-station-9.sql)
+| Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-10.sql)
+| Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-11.sql)
+| Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/weather-observation-station-12.sql)
+| Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/more-than-75-marks.sql)
+| Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/name-of-employees.sql)
+| Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [My solution](https://github.com/niaBaldoni/HackerRank-Challenges/blob/main/sql/basic_select/salary-of-employees.sql)
 
 ### Advanced Select
 | | | |
