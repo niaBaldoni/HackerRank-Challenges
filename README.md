@@ -32,11 +32,13 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 ---
 ## <img src= "https://skillicons.dev/icons?i=java" width = 30px> Java
-
+_All the Java solutions are written in Java 8_
 ### Introduction
 | | | |
 | --- | --- | --- |
-| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/01_introduction/welcome-to-java.java) |
+| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](./java/01_introduction/welcome-to-java.java) |
+| Java Stdin and Stdout I | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [My solution](./java/01_introduction/java-stdin-and-stdout-1.java) |
+
 
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
