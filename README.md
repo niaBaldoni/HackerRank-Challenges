@@ -77,13 +77,13 @@ Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/pr
 ### Itertools
 |  |  |  |
 | --- | --- | --- | 
-| itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](./python/itertools-product.py) |
-| itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](./python/itertools-permutations.py)
-| itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](./python/itertools-combinations.py)
-| itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | [My solution](./python/itertools-combinations-with-replacement.py)
-| Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string) | [My solution](./python/compress-the-string.py)
-| Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](./python/iterables-and-iterators.py)
-| Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](./python/maximize-it.py)
+| itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](./python/itertools/itertools-product.py) |
+| itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](./python/itertools/itertools-permutations.py)
+| itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](./python/itertools/itertools-combinations.py)
+| itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | [My solution](./python/itertools/itertools-combinations-with-replacement.py)
+| Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string) | [My solution](./python/itertools/compress-the-string.py)
+| Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](./python/itertools/iterables-and-iterators.py)
+| Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](./python/itertools/maximize-it.py)
 
 ### Collections
 |  |  |  |
