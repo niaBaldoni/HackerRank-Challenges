@@ -17,15 +17,15 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Introduction
 | | | |
 | --- | --- | --- |
-| Say "Hello, World!" With C++ | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [My solution](../main/cplusplus/introduction/cpp-hello-world.cpp) |
-| Input and Output | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [My solution](../main/cplusplus/introduction/cpp-input-and-output.cpp) |
-| Basic Data Types | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [My solution](../main/cplusplus/introduction/c-tutorial-basic-data-types.cpp) |
-| Conditional Statement | [Problem](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [My solution](../main/cplusplus/introduction/c-tutorial-conditional-if-else.cpp) |
-| For Loop | [Problem](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [My solution](../main/cplusplus/introduction/c-tutorial-for-loop.cpp) |
-| Functions | [Problem](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [My solution](../main/cplusplus/introduction/c-tutorial-functions.cpp) |
-| Pointer | [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [My solution](../main/cplusplus/introduction/c-tutorial-pointer.cpp) |
-| Arrays Introduction | [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [My solution](../main/cplusplus/introduction/arrays-introduction.cpp) |
-| Variable Sized Arrays | [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [My solution](../main/cplusplus/introduction/variable-sized-arrays.cpp) |
+| Say "Hello, World!" With C++ | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [My solution](./cplusplus/01_introduction/cpp-hello-world.cpp) |
+| Input and Output | [Problem](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [My solution](./cplusplus/01_introduction/cpp-input-and-output.cpp) |
+| Basic Data Types | [Problem](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | [My solution](./cplusplus/01_introduction/c-tutorial-basic-data-types.cpp) |
+| Conditional Statement | [Problem](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [My solution](./cplusplus/01_introduction/c-tutorial-conditional-if-else.cpp) |
+| For Loop | [Problem](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [My solution](./cplusplus/01_introduction/c-tutorial-for-loop.cpp) |
+| Functions | [Problem](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [My solution](./cplusplus/01_introduction/c-tutorial-functions.cpp) |
+| Pointer | [Problem](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [My solution](./cplusplus/01_introduction/c-tutorial-pointer.cpp) |
+| Arrays Introduction | [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [My solution](./cplusplus/01_introduction/arrays-introduction.cpp) |
+| Variable Sized Arrays | [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [My solution](./cplusplus/01_introduction/variable-sized-arrays.cpp) |
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
@@ -36,7 +36,7 @@ My solutions to some of the HackerRank practice problems and challenges.
 ### Introduction
 | | | |
 | --- | --- | --- |
-| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/introduction/welcome-to-java.java) |
+| Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](../main/java/01_introduction/welcome-to-java.java) |
 
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
@@ -49,13 +49,13 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 |  |  |  |
 | --- | --- | --- | 
-Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [My solution](./python/introduction/py-hello-world.py)
-Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [My solution](./python/introduction/py-if-else.py)
-Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [My solution](./python/introduction/python-arithmetic-operators.py)
-Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [My solution](./python/introduction/python-division.py)
-Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [My solution](./python/introduction/python-loops.py)
-Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [My solution](./python/introduction/write-a-function.py)
-Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [My solution](./python/introduction/python-print.py)
+Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [My solution](./python/01_introduction/py-hello-world.py)
+Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [My solution](./python/01_introduction/py-if-else.py)
+Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [My solution](./python/01_introduction/python-arithmetic-operators.py)
+Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [My solution](./python/01_introduction/python-division.py)
+Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [My solution](./python/01_introduction/python-loops.py)
+Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [My solution](./python/01_introduction/write-a-function.py)
+Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [My solution](./python/01_introduction/python-print.py)
 
 ### Sets
 |  |  |  |
