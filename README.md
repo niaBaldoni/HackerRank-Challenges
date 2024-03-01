@@ -88,10 +88,10 @@ Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/pr
 ### Collections
 |  |  |  |
 | --- | --- | --- | 
-| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](./python/collections-counter.py)
-| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](./python/defaultdict-tutorial.py)
-| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](./python/py-collections-namedtuple.py)
-| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](./python/py-collections-ordereddict.py)
+| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](./python/collections/collections-counter.py)
+| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](./python/collections/defaultdict-tutorial.py)
+| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](./python/collections/py-collections-namedtuple.py)
+| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](./python/collections/py-collections-ordereddict.py)
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
