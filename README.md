@@ -49,50 +49,49 @@ My solutions to some of the HackerRank practice problems and challenges.
 
 |  |  |  |
 | --- | --- | --- | 
-Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [My solution](../main/python/introduction/py-hello-world.py)
-Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [My solution](../main/python/introduction/py-if-else.py)
-Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [My solution](../main/python/introduction/python-arithmetic-operators.py)
-Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [My solution](../main/python/introduction/python-division.py)
-Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [My solution](../main/python/introduction/python-loops.py)
-Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [My solution](../main/python/introduction/write-a-function.py)
-Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [My solution](../main/python/introduction/python-print.py)
+Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [My solution](./python/introduction/py-hello-world.py)
+Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [My solution](./python/introduction/py-if-else.py)
+Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [My solution](./python/introduction/python-arithmetic-operators.py)
+Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [My solution](./python/introduction/python-division.py)
+Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [My solution](./python/introduction/python-loops.py)
+Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [My solution](./python/introduction/write-a-function.py)
+Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [My solution](./python/introduction/python-print.py)
 
 ### Sets
 |  |  |  |
 | --- | --- | --- | 
-| Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [My solution](../main/python/py-introduction-to-sets.py)
-| No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [My solution](../main/python/no-idea.py)
-| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) | [My solution](../main/python/py-set-union.py)
-| Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [My solution](../main/python/symmetric-difference.py) 
-| Set .add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [My solution](../main/python/py-set-add.py)
-| Set .discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | [My solution](../main/python/py-set-discard-remove-pop.py)
-| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union) | [My solution](../main/python/py-set-union.py)
-| Set .intersection() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation) | [My solution](../main/python/py-set-intersection-operation.py)
-| Set .difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation) | [My solution](../main/python/py-set-difference-operation.py)
-| Set .symmetric_difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [My solution](../main/python/py-set-symmetric-difference-operation.py)
-| Set Mutations | [Problem](https://www.hackerrank.com/challenges/py-set-mutations) | [My solution](../main/python/py-set-mutations.py)
-| The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room) | [My solution](../main/python/py-the-captains-room.py)
-| Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset) | [My solution](../main/python/py-check-subset.py)
-| Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset) | [My solution](../main/python/py-check-strict-superset.py)
+| Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [My solution](./python/sets/py-introduction-to-sets.py)
+| No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [My solution](./python/sets/no-idea.py)
+| Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [My solution](./python/sets/symmetric-difference.py) 
+| Set .add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [My solution](./python/sets/py-set-add.py)
+| Set .discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | [My solution](./python/sets/py-set-discard-remove-pop.py)
+| Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union) | [My solution](./python/sets/py-set-union.py)
+| Set .intersection() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation) | [My solution](./python/sets/py-set-intersection-operation.py)
+| Set .difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation) | [My solution](./python/sets/py-set-difference-operation.py)
+| Set .symmetric_difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [My solution](./python/sets/py-set-symmetric-difference-operation.py)
+| Set Mutations | [Problem](https://www.hackerrank.com/challenges/py-set-mutations) | [My solution](./python/sets/py-set-mutations.py)
+| The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room) | [My solution](./python/sets/py-the-captains-room.py)
+| Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset) | [My solution](./python/sets/py-check-subset.py)
+| Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset) | [My solution](./python/sets/py-check-strict-superset.py)
 
 ### Itertools
 |  |  |  |
 | --- | --- | --- | 
-| itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](../main/python/itertools-product.py) |
-| itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](../main/python/itertools-permutations.py)
-| itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](../main/python/itertools-combinations.py)
-| itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | [My solution](../main/python/itertools-combinations-with-replacement.py)
-| Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string) | [My solution](../main/python/compress-the-string.py)
-| Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](../main/python/iterables-and-iterators.py)
-| Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](../main/python/maximize-it.py)
+| itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [My solution](./python/itertools-product.py) |
+| itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [My solution](./python/itertools-permutations.py)
+| itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [My solution](./python/itertools-combinations.py)
+| itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | [My solution](./python/itertools-combinations-with-replacement.py)
+| Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string) | [My solution](./python/compress-the-string.py)
+| Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators) | [My solution](./python/iterables-and-iterators.py)
+| Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it) | [My solution](./python/maximize-it.py)
 
 ### Collections
 |  |  |  |
 | --- | --- | --- | 
-| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](../main/python/collections-counter.py)
-| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](../main/python/defaultdict-tutorial.py)
-| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](../main/python/py-collections-namedtuple.py)
-| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](../main/python/py-collections-ordereddict.py)
+| collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter) | [My solution](./python/collections-counter.py)
+| DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [My solution](./python/defaultdict-tutorial.py)
+| collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [My solution](./python/py-collections-namedtuple.py)
+| collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [My solution](./python/py-collections-ordereddict.py)
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
