@@ -42,6 +42,7 @@ _All the Java solutions are written in Java 8_
 | Java Stdin and Stdout II | [Problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [My solution](./java/01_introduction/java-stdin-stdout.java) |
 | Java Output Formatting | [Problem](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [My solution](./java/01_introduction/java-output-formatting.java) |
 | Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem) | [My solution](./java/01_introduction/java-loops-i.java) |
+| Java Loops II | [Problem](https://www.hackerrank.com/challenges/java-loops/problem) | [My solution](./java/01_introduction/java-loops.java) |
 | TITLE | [Problem]() | [My solution]() |
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
