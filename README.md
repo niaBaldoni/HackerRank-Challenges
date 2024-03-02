@@ -39,7 +39,8 @@ _All the Java solutions are written in Java 8_
 | Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [My solution](./java/01_introduction/welcome-to-java.java) |
 | Java Stdin and Stdout I | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [My solution](./java/01_introduction/java-stdin-and-stdout-1.java) |
 | Java If-Else | [Problem](https://www.hackerrank.com/challenges/java-if-else/problem) | [My Solution](./java/01_introduction/java-if-else.java) |
-
+| Java Stdin and Stdout II | [Problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [My solution](./java/01_introduction/java-stdin-stdout.java) |
+| TITLE | [Problem]() | [My solution]() |
 
 <p align="right">(<a href="#topics">back to top</a>)</p>
 
