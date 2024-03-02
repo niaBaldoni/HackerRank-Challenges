@@ -1,3 +1,5 @@
+import permutations
+
 #the code in quotes is how you would solve it manually
 """
 word, k = input().split(" ")
