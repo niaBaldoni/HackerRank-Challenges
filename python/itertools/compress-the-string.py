@@ -1,15 +1,15 @@
-from itertools import groupby
+from itertools import groupby
 
-L = input()
+L = input()
 
 """
-ris = ""
-lista = []
-for key, group in groupby(L):
-    ris += f"({len(list(group))}, {key}) "
+ris = ""
+lista = []
+for key, group in groupby(L):
+    ris += f"({len(list(group))}, {key}) "
 print(ris)
 
 """
 
-out = [(len(list(group)), int(key)) for key, group in groupby(L)]
-print(*out, sep=" ")
+out = [(len(list(group)), int(key)) for key, group in groupby(L)]
+print(*out, sep=" ")
