@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
 
-print(pow(a, b) + pow(c, d))
+print(pow(a, b) + pow(c, d))
