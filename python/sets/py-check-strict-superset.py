@@ -1,13 +1,13 @@
-setA = set(map(int, input().split()))
+setA = set(map(int, input().split()))
 
-check = True
+check = True
 
-for i in range(int(input())):
+for i in range(int(input())):
 
-    setB = set(map(int, input().split()))
+    setB = set(map(int, input().split()))
 
-    if not (setA.difference(setB) and not setB.difference(setA)):
+    if not (setA.difference(setB) and not setB.difference(setA)):
 
-        check = False
+        check = False
 
 print(check)
